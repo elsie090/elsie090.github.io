@@ -87,12 +87,6 @@ border: 3px solid rgb(250, 254, 122);
 }
 
 
-.educationinfo {
-    margin-left: 50%;
-}
-
-
-
 .picture2 {
 
     padding: 20px;
@@ -104,4 +98,13 @@ border: 3px solid rgb(250, 254, 122);
  border: 8px solid rgb(185, 255, 158);
 }
 
+.education {
+    margin-left: 50%;
+    width: 40%;
+    font-family: times new roman; 
+    
+    background-color: rgb(255, 182, 151) ;
+    
+    border: 3px solid rgb(233, 106, 78));  
+}
 
