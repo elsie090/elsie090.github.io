@@ -4,13 +4,13 @@
 }
 
 html body {
-    background-color:rgb(255, 230, 239);
+    background-color:rgb(255, 211, 227);
 }
 
 .pagetitle {
     text-align: center;
 font-size: 50 px;
-    color: rgb(196, 88, 0);
+    color: rgb(238, 131, 43);
     font-family: monospace;
 
 } 
