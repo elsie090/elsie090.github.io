@@ -28,7 +28,8 @@ border: 10px solid red;
 .picture1 {
 
     padding: 20px;
-    margin: 20px;
+    margin: 20px solid pink;
+    border: 10px 
 }
 
 .picture2 {
