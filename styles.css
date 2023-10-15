@@ -31,7 +31,7 @@ font-family: times new roman;
 
 background-color: rgb(254, 232, 122);
 
-border: 5px solid rgb(255, 191, 0);
+border: 3px solid rgb(255, 191, 0);
 text-align: center;
 
 }
@@ -56,7 +56,7 @@ text-align: center;
 
 background-color: rgb(215, 255, 203);
 
-border: 5px solid rgb(149, 255, 0);
+border: 3px solid rgb(149, 255, 0);
 }
 
 .resumelink {
@@ -65,7 +65,7 @@ border: 5px solid rgb(149, 255, 0);
 
 background-color: rgb(250, 254, 122);
 
-border: 5px solid rgb(115, 255, 0);
+border: 3px solid rgb(115, 255, 0);
 }
 
 .contacts {
@@ -74,7 +74,7 @@ font-family: times new roman;
 
 background-color: rgb(115, 255, 0) ;
 
-border: 5px solid rgb(250, 254, 122);
+border: 3px solid rgb(250, 254, 122);
 }
 
 .experience {
@@ -83,7 +83,7 @@ border: 5px solid rgb(250, 254, 122);
     
     background-color: rgb(239, 251, 255) ;
     
-    border: 5px solid rgb(92, 255, 252);  
+    border: 3px solid rgb(92, 255, 252);  
 }
 
 
