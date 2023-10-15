@@ -43,7 +43,7 @@ text-align: center;
 
 
 .intro2 {
-    width: 200px; 
+    width: 65%; 
     font-family: times new roman; 
 font-size: 20 px;
 background-color: rgb(215, 255, 203);
@@ -53,7 +53,7 @@ border: 5px solid rgb(149, 255, 0);
 }
 
 .resumelink {
-
+    width: 65%;
     font-family: times new roman; 
 font-size: 20 px;
 background-color: rgb(250, 254, 122);
@@ -63,6 +63,7 @@ border: 5px solid rgb(115, 255, 0);
 }
 
 .contacts {
+    width: 65%;
 font-family: times new roman; 
 font-size: 20 px;
 background-color: rgb(115, 255, 0) ;
