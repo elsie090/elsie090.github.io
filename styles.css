@@ -26,19 +26,27 @@ border: 5px solid rgb(255, 191, 0);
 }
 
 
-img.picture1 {
+picture1 {
 
     padding: 20px;
     margin: 20px solid pink;
     
-    border: 5px solid rgb(255, 191, 0);
+   
 }
 
-img.picture2 {
+.picture1 img{
+ border: 5px solid rgb(255, 191, 0);
+}
+
+picture2 {
 
     padding: 20px;
     margin: 20px;
-    border: 5px solid rgb(4, 255, 0);
+   
+}
+
+picture2.img {
+ border: 5px solid rgb(4, 255, 0);
 }
 
 .intro2 {
