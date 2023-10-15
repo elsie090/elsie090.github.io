@@ -10,7 +10,8 @@ font-size: 38 px;
 } 
 
 .intro {
-
+font-family: helvetica;
+font-size: 20 px;
 background-color: rgb(255, 249, 160);
 }
 
