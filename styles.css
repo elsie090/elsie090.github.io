@@ -99,6 +99,10 @@ border: 3px solid rgb(250, 254, 122);
  border: 8px solid rgb(185, 255, 158);
 }
 
+.line2 img {
+    transform: translate(4%, 0%);
+    width: 90vw;
+}
 .education {
     margin-left: 40%;
     width: 50%;
