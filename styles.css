@@ -43,7 +43,7 @@ text-align: center;
 
 
 .intro2 {
-
+    width: 200px; 
     font-family: times new roman; 
 font-size: 20 px;
 background-color: rgb(215, 255, 203);
