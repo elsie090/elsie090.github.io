@@ -17,6 +17,10 @@ font-size: 150 px;
 
 } 
 
+p {
+    font-size: 20px;
+}
+
 .intro {
 font-family: times new roman; 
 font-size: 40 px;
