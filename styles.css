@@ -128,3 +128,13 @@ border: 3px solid rgb(250, 254, 122);
     
     border: 3px solid rgb(250, 132, 195);    
 }
+
+.awards {
+    width: 60%;
+    font-family: times new roman; 
+    
+    background-color: rgb(255, 155, 205) ;
+    
+    border: 3px solid rgb(255, 200, 119);  
+
+}
