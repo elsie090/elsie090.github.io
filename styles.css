@@ -9,7 +9,7 @@ html body {
 
 .pagetitle {
    text-align: center;
-font-size: 150 px;
+
 
     color: rgb(238, 131, 43);
     font-family: monospace;
@@ -28,10 +28,9 @@ p {
 
 .intro {
 font-family: times new roman; 
-font-size: 40 px;
+
 background-color: rgb(254, 232, 122);
-margin: 10 px;
-padding: 20 px;
+
 border: 5px solid rgb(255, 191, 0);
 text-align: center;
 
@@ -54,30 +53,27 @@ text-align: center;
 .intro2 {
     width: 65%; 
     font-family: times new roman; 
-font-size: 20 px;
+
 background-color: rgb(215, 255, 203);
-margin: 10 px;
-padding: 20 px;
+
 border: 5px solid rgb(149, 255, 0);
 }
 
 .resumelink {
     width: 65%;
     font-family: times new roman; 
-font-size: 30 px;
+
 background-color: rgb(250, 254, 122);
-margin: 10 px;
-padding: 25 px;
+
 border: 5px solid rgb(115, 255, 0);
 }
 
 .contacts {
     width: 65%;
 font-family: times new roman; 
-font-size: 30 px;
+
 background-color: rgb(115, 255, 0) ;
-margin: 10 px;
-padding: 25 px;
+
 border: 5px solid rgb(250, 254, 122);
 }
 
@@ -104,7 +100,7 @@ border: 5px solid rgb(250, 254, 122);
 .intro2 {
 
 font-family: times new roman;
-font-size: 30 px; 
+
 
 }
 
