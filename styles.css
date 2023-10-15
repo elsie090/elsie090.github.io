@@ -1,6 +1,6 @@
- {
+ *{
 
-    margin: 20px 40px;
+    margin: 7px;
 }
 
 html body {
@@ -41,7 +41,7 @@ border: 5px solid rgb(255, 191, 0);
 .picture2 {
 
     padding: 20px;
-    margin: 20px;
+    margin: 50px;
    
 }
 
