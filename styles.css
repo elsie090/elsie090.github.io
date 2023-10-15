@@ -77,9 +77,14 @@ background-color: rgb(115, 255, 0) ;
 border: 5px solid rgb(250, 254, 122);
 }
 
-
-
-
+.experiencetitle {
+    width: 65%;
+    font-family: times new roman; 
+    
+    background-color: rgb(255, 207, 222) ;
+    
+    border: 5px solid rgb(238, 130, 155);  
+}
 
 
 
@@ -97,10 +102,4 @@ border: 5px solid rgb(250, 254, 122);
  border: 5px solid rgb(185, 255, 158);
 }
 
-.intro2 {
-
-font-family: times new roman;
-
-
-}
 
