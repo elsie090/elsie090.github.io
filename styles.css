@@ -99,3 +99,6 @@ font-size: 20 px;
 
 }
 
+p.* {
+    padding: 10px;
+}
