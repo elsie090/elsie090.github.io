@@ -100,7 +100,7 @@ border: 3px solid rgb(250, 254, 122);
 
 .education {
     margin-left: 40%;
-    width: 60%;
+    width: 50%;
     font-family: times new roman; 
     
     background-color: rgb(255, 182, 151) ;
@@ -110,8 +110,8 @@ border: 3px solid rgb(250, 254, 122);
 
 
 .skills {
-    margin-left: 60%;
-    width: 40%;
+    margin-left: 40%;
+    width: 50%;
     font-family: times new roman; 
     
     background-color: rgb(194, 194, 255) ;
