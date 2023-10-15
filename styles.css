@@ -26,10 +26,10 @@ border: 5px solid rgb(255, 191, 0);
 }
 
 
-picture1 {
+.picture1 {
 
     padding: 20px;
-    margin: 20px solid pink;
+    margin: 20px;
     
    
 }
@@ -38,7 +38,7 @@ picture1 {
  border: 5px solid rgb(255, 191, 0);
 }
 
-picture2 {
+.picture2 {
 
     padding: 20px;
     margin: 20px;
