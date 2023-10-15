@@ -41,6 +41,45 @@ text-align: center;
  border: 5px solid rgb(255, 110, 192);
 }
 
+
+.intro2 {
+
+    font-family: times new roman; 
+font-size: 20 px;
+background-color: rgb(215, 255, 203);
+margin: 10 px;
+padding: 20 px;
+border: 5px solid rgb(149, 255, 0);
+}
+
+.resumelink {
+
+    font-family: times new roman; 
+font-size: 20 px;
+background-color: rgb(250, 254, 122);
+margin: 10 px;
+padding: 25 px;
+border: 5px solid rgb(115, 255, 0);
+}
+
+.contacts {
+font-family: times new roman; 
+font-size: 20 px;
+background-color: rgb(115, 255, 0) ;
+margin: 10 px;
+padding: 25 px;
+border: 5px solid rgb(250, 254, 122);
+}
+
+
+
+
+
+
+
+
+
+
 .picture2 {
 
     padding: 20px;
