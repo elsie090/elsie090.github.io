@@ -1,6 +1,16 @@
+* {
+    background-color: rgb(255, 199, 220);
+}
+
 .pagetitle {
     text-align: center;
 font-size: 38 px;
     color: rgb(255, 116, 2);
     font-family: monospace;
+} 
+
+.intro {
+
+
 }
+
