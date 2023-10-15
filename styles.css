@@ -27,7 +27,8 @@ p {
 }
 
 .intro {
-font-family: times new roman; 
+width: 75%;
+    font-family: times new roman; 
 
 background-color: rgb(254, 232, 122);
 
