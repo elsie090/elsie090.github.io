@@ -45,7 +45,7 @@ picture2 {
    
 }
 
-picture2.img {
+.picture2 img {
  border: 5px solid rgb(4, 255, 0);
 }
 
