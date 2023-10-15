@@ -52,7 +52,7 @@ margin-left: 12%;
 
 
 .intro2 {
-    width: 65%; 
+    width: 60%; 
     font-family: times new roman; 
 
 background-color: rgb(215, 255, 203);
@@ -61,7 +61,7 @@ border: 3px solid rgb(149, 255, 0);
 }
 
 .resumelink {
-    width: 65%;
+    width: 60%;
     font-family: times new roman; 
 
 background-color: rgb(250, 254, 122);
@@ -70,7 +70,7 @@ border: 3px solid rgb(115, 255, 0);
 }
 
 .contacts {
-    width: 65%;
+    width: 60%;
 font-family: times new roman; 
 
 background-color: rgb(115, 255, 0) ;
@@ -79,7 +79,7 @@ border: 3px solid rgb(250, 254, 122);
 }
 
 .experience {
-    width: 65%;
+    width: 60%;
     font-family: times new roman; 
     
     background-color: rgb(198, 240, 254) ;
